@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Segments\Segments\bin\Debug\Segments.exe.config
+C:\Users\Admin\source\repos\Segments\Segments\bin\Debug\Segments.exe
+C:\Users\Admin\source\repos\Segments\Segments\bin\Debug\Segments.pdb
+C:\Users\Admin\source\repos\Segments\Segments\bin\Debug\Segments.xml
+C:\Users\Admin\source\repos\Segments\Segments\obj\Debug\Segments.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Segments\Segments\obj\Debug\Segments.Resources.resources
+C:\Users\Admin\source\repos\Segments\Segments\obj\Debug\Segments.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Segments\Segments\obj\Debug\Segments.exe
+C:\Users\Admin\source\repos\Segments\Segments\obj\Debug\Segments.xml
+C:\Users\Admin\source\repos\Segments\Segments\obj\Debug\Segments.pdb
+C:\Users\Admin\source\repos\Segments\Segments\obj\Debug\Segments.SevenSegment.resources
